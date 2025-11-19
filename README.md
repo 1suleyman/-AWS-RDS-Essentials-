@@ -35,7 +35,7 @@ By completing this course, I’ll gain in-depth experience with:
 
 | Challenge | Title        | Link      | Key Skill                                   |
 | --------- | ------------ | --------- | ------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. database fundamentals and use cases    |
+| 1         | 🗄️ AWS RDS Lab – Creating a Single MariaDB Database Instance | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-Lab-Creating-a-Single-MariaDB-Database-Instance/tree/main) | RDS Easy Create, instance setup, endpoints & ports, lifecycle management, cleanup operations |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. RDS overview and benefits              |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. RDS in the AWS console                 |
 | 4         | Coming soon… | 📂 [Repo]()| e.g. creating a single MariaDB RDS instance |
