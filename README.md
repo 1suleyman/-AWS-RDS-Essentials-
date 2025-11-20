@@ -44,26 +44,11 @@ By completing this course, I’ll gain in-depth experience with:
 
 ---
 
-### 🔹 Module 2: Different Database Engines in RDS
-
-| Challenge | Title        | Link      | Key Skill                        |
-| --------- | ------------ | --------- | -------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. RDS engine differences      |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. PostgreSQL features on RDS  |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. MariaDB considerations      |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. MSSQL on RDS                |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. Oracle RDS basics           |
-| 6         | Coming soon… | 📂 Folder | e.g. MySQL engine overview       |
-| 7         | Coming soon… | 📂 Folder | e.g. choosing the right database |
-| 8         | Coming soon… | 📂 Folder | e.g. licensing considerations    |
-
----
-
-### 🔹 Module 3: RDS Architecture & Concepts
+### 🔹 Module 2: RDS Architecture & Concepts
 
 | Challenge | Title        | Link      | Key Skill                             |
 | --------- | ------------ | --------- | ------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. RDS architecture & components    |
+| 1         | 🚀 AWS RDS Lab — Deploy & Connect a Sample Application to PostgreSQL RDS | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-Lab-Deploy-Connect-a-Sample-Application-to-PostgreSQL-RDS/tree/main) | PostgreSQL RDS provisioning, EC2–RDS connectivity, SSH config, app DB updates, endpoint testing, troubleshooting |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. deploying sample EC2 app         |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. connecting app to RDS            |
 | 4         | Coming soon… | 📂 [Repo]() | e.g. hands-on: deploy + connect to DB |
