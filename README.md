@@ -44,17 +44,7 @@ By completing this course, I’ll gain in-depth experience with:
 | Challenge | Title        | Link      | Key Skill                             |
 | --------- | ------------ | --------- | ------------------------------------- |
 | 1         | 🚀 AWS RDS Lab — Deploy & Connect a Sample Application to PostgreSQL RDS | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-Lab-Deploy-Connect-a-Sample-Application-to-PostgreSQL-RDS/tree/main) | PostgreSQL RDS provisioning, EC2–RDS connectivity, SSH config, app DB updates, endpoint testing, troubleshooting |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. deploying sample EC2 app         |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. connecting app to RDS            |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. hands-on: deploy + connect to DB |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. RDS instance types/families      |
-| 6         | Coming soon… | 📂 [Repo]() | e.g. RDS storage types                |
-| 7         | Coming soon… | 📂 Folder | e.g. read replicas                    |
-| 8         | Coming soon… | 📂 Folder | e.g. creating read replicas           |
-| 9         | Coming soon… | 📂 Folder | e.g. hands-on with read replicas      |
-| 10        | Coming soon… | 📂 Folder | e.g. cross-region replicas            |
-| 11        | Coming soon… | 📂 Folder | e.g. RDS architecture summary         |
-| 12        | Coming soon… | 📂 Folder | e.g. core concepts recap              |
+| 2         | 🐘 AWS RDS PostgreSQL Lab — Create a Database & Read Replica | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-PostgreSQL-Lab-Create-a-Database-Read-Replica/tree/main) | PostgreSQL RDS provisioning, engine config, read replica creation, backup behavior, deletion workflow |
 
 ---
 
