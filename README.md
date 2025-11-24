@@ -48,17 +48,7 @@ By completing this course, I’ll gain in-depth experience with:
 
 ---
 
-### 🔹 Module 4: Scaling AWS RDS
-
-| Challenge | Title        | Link      | Key Skill                                      |
-| --------- | ------------ | --------- | ---------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. Single-AZ vs Multi-AZ vs Multi-AZ cluster |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. Blue/Green deployments                    |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. Optimized reads/writes                    |
-
----
-
-### 🔹 Module 5: RDS Networking & Security
+### 🔹 Module 3: RDS Networking & Security
 
 | Challenge | Title        | Link      | Key Skill                                  |
 | --------- | ------------ | --------- | ------------------------------------------ |
