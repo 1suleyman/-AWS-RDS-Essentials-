@@ -52,17 +52,7 @@ By completing this course, I’ll gain in-depth experience with:
 
 | Challenge | Title        | Link      | Key Skill                                  |
 | --------- | ------------ | --------- | ------------------------------------------ |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. RDS networking concepts               |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. authentication & access mgmt          |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. password rotation via Secrets Manager |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. Secrets Manager demo                  |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. Secrets Manager (Part 2)              |
-| 6         | Coming soon… | 📂 [Repo]() | e.g. infrastructure security               |
-| 7         | Coming soon… | 📂 Folder | e.g. security best practices               |
-| 8         | Coming soon… | 📂 Folder | e.g. security groups for RDS               |
-| 9         | Coming soon… | 📂 Folder | e.g. RDS Proxy                             |
-| 10        | Coming soon… | 📂 Folder | e.g. RDS Proxy endpoint demo               |
-| 11        | Coming soon… | 📂 Folder | e.g. hands-on with RDS Proxy               |
+| 1         | 🐘 AWS RDS Proxy Lab — Create MariaDB RDS, Store Secrets, Configure Proxy & Connect via EC2 | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-Proxy-Lab-Create-MariaDB-RDS-Store-Secrets-Configure-Proxy-Connect-via-EC2/tree/main) | MariaDB RDS deployment, EC2 MySQL access, Secrets Manager setup, RDS Proxy creation, SG chaining, proxy troubleshooting |
 
 ---
 
