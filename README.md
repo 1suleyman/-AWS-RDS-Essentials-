@@ -68,15 +68,7 @@ By completing this course, I’ll gain in-depth experience with:
 
 | Challenge | Title        | Link      | Key Skill                           |
 | --------- | ------------ | --------- | ----------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. Aurora features & benefits     |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. Aurora architecture vs RDS     |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. setting up/managing Aurora     |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. Aurora setup lab               |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. Aurora distributed storage     |
-| 6         | Coming soon… | 📂 [Repo]() | e.g. Aurora backup/restore          |
-| 7         | Coming soon… | 📂 [Repo]() | e.g. Aurora backup demo             |
-| 8         | Coming soon… | 📂 Folder | e.g. Aurora pricing                 |
-| 9         | Coming soon… | 📂 Folder | e.g. Aurora vs Aurora Serverless V2 |
+| 1         | 🐬 AWS Aurora Lab — Create an Aurora PostgreSQL DB Cluster & Clean Up Resources | 📂 [Repo](https://github.com/1suleyman/-AWS-Aurora-Lab-Create-an-Aurora-PostgreSQL-DB-Cluster-Clean-Up-Resources/tree/main) | Aurora PostgreSQL provisioning, cluster vs instance, writer endpoints, port 5432, cleanup workflow |
 
 ---
 
