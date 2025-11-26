@@ -60,10 +60,7 @@ By completing this course, I’ll gain in-depth experience with:
 
 | Challenge | Title        | Link      | Key Skill                      |
 | --------- | ------------ | --------- | ------------------------------ |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. RDS backup/restore        |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. backup/restore demo       |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. costing your RDS instance |
-| 4         | Coming soon… | 📂 [Repo]() | e.g. RDS restore lab           |
+| 1         | 🐘 AWS RDS Backup & Restore Lab — Snapshots, Restore, and Instance Cleanup | 📂 [Repo](https://github.com/1suleyman/-AWS-RDS-Backup-Restore-Lab-Snapshots-Restore-and-Instance-Cleanup/tree/main) | RDS snapshots, incremental backups, snapshot restore, metadata inspection, Easy Create, cleanup workflow |
 
 ---
 
