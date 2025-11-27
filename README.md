@@ -76,8 +76,5 @@ By completing this course, I’ll gain in-depth experience with:
 
 | Challenge | Title        | Link      | Key Skill                       |
 | --------- | ------------ | --------- | ------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. monitoring RDS databases   |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. using Performance Insights |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. CloudWatch integration     |
-| 4         | Coming soon… | 📂 Folder | e.g. Query Editor               |
-| 5         | Coming soon… | 📂 Folder | e.g. Query Editor lab           |
+| 1         | 🐬 AWS Aurora Serverless v2 Lab — Create Aurora MySQL Cluster & Query with RDS Query Editor | 📂 [Repo](https://github.com/1suleyman/-AWS-Aurora-Serverless-v2-Lab-Create-Aurora-MySQL-Cluster-Query-with-RDS-Query-Editor/tree/main) | Aurora Serverless v2 provisioning, ACU scaling, EC2 MySQL connection, Data API usage, RDS Query Editor SQL execution |
+
